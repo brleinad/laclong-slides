@@ -30,7 +30,7 @@ layout: two-cols
 layout:image
 ---
 ##  Francis, Louit, Alex, Me
-![climbers](/lac-long-challenge-climbers.JPG)
+![climbers](/lac-long-challenge-climbers.jpg)
 
 ---
 layout: quote
@@ -91,7 +91,7 @@ layout:statement
 
 I want to easily know which routes I have left to win the challenge
 
-![background](/lac-long-background.JPG)
+![background](/lac-long-background.jpg)
 
 ---
 layout: two-cols 
